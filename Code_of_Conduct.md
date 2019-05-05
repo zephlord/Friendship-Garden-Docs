@@ -9,9 +9,9 @@ By becoming a member of Friendship Garden Game Developers (FG), receiving an awa
 We insist that everyone who uses the space remains mindful of, and takes responsibility for, their speech and behavior. This includes:
 
 - Always acting out of respect and concern for the free expression.
-- Respect the privacy of others. Do not share photos, screenshots, conversations or other information shared within the group with people outside of our community without the explicit consent of all parties involved. If you have received permission in the past, ask again; circumstances may have changed.
+- Respecting the privacy of others. Not sharing photos, screenshots, conversations or other information shared within the group with people outside of our community without the explicit consent of all parties involved. Asking again if permission was gained in the past; circumstances may have changed.
 - Actively listening to others and not dominating discussions.
-- Respecting physical and emotional boundaries. Always ask before touching, and check in before discussing topics that may be triggering. This includes getting any manner of physical contact, including sexual attention, and simulated physical contact in online conversations.
+- Respecting physical and emotional boundaries. Always asking before touching, and check in before discussing topics that may be triggering. This includes getting any manner of physical contact, including sexual attention, and simulated physical contact in online conversations.
 - Not making assumptions about identity, experiences, or preferred pronouns.
 - Not using words that are racist, sexist, homophobic, classist, transphobic, cissexist or ableist.
 - Humbly accepting respectful correction (or correcting yourself!), keeping in mind that the impact of your words on other people is more important than your intent.
