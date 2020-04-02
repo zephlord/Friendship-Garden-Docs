@@ -38,7 +38,7 @@ Anyone who engages in sustained â€¬unacceptable behavior may be sanctioned, beâ€
 
 ### What to do if you need help
 
-If you witness or are subject to unacceptable behavior, or experience marginalizing or silencing behavior that limits your full participation in any GameDevLou event, please talk to any of the following people:
+If you witness or are subject to unacceptable behavior, or experience marginalizing or silencing behavior that limits your full participation in any Friendship Garden Game Developers event, please talk to any of the following people:
 
 
 *   The host of the event you are attending (listed on the event page)
