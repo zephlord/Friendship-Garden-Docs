@@ -167,7 +167,7 @@ Members of the Board of Directors who are removed for failure to meet the minimu
 
 The officers of this Board shall be the President, Secretary and Treasurer. All officers must have the status of active members of the Board, and multiple positions may be filled by the same member of the Board.
 
-**Section 1. President**
+**Section 1. President aka Executive Director**
 
 The President shall preside at all meetings of the membership, send a proxy following procedures outlined in Section 7, or have a verified emergency as outlined in Section 8. The President shall have the following duties:
 
@@ -178,7 +178,7 @@ The President shall preside at all meetings of the membership, send a proxy foll
 5. They shall submit a report of the operations of the program for the fiscal year to the Advisory Board and members at their annual meetings, and from time to time, shall report to the Board all matters that may affect this program.
 6. They shall be Ex-officio member of all standing committees and shall have the power and duties usually vested in the office of the President.
 
-**Section 2. Secretary**
+**Section 2. Secretary aka Operations Director**
 
 The Secretary shall attend all meetings of the Advisory Board and of the Executive Committee, and all meetings of members, send a proxy following procedures outlined in Section 7, or have a verified emergency as outlined in Section 8 and assisted by a staff member, will act as a clerk thereof. The Secretary may The Secretary&#39;s duties shall consist of:
 
@@ -186,7 +186,7 @@ The Secretary shall attend all meetings of the Advisory Board and of the Executi
 2. Assisted by a staff member, They shall send notices of all meetings to the members of the Advisory Board and shall take reservations for the meetings.
 3. They shall perform all official correspondence from the Advisory Board as may be prescribed by the Advisory Board or the President.
 
-**Section 3. Treasurer**
+**Section 3. Treasurer aka Creative Director**
 
 The Treasurer&#39;s duties shall be:
 
